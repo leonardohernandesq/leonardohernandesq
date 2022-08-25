@@ -6,6 +6,8 @@ Prazer meu nome é Leonardo Quentl, sou desenvolvedor front-end, formado em anal
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardohernandesq&count_private=true&show_icons=true&theme=dracula)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohernandesq&layout=compact&langs_count=7&theme=dark
+
 ## Minhas Redes 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-hernandes/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/leo.hernandes/)
