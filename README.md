@@ -3,10 +3,10 @@
 Prazer meu nome é Leonardo Quentl, sou desenvolvedor front-end, formado em analise e desenvolvimento de sistemas pela Faculdade Impacta, tenho 23 anos, sou apaixonado por tecnologia e por aprender coisas novas.
 
 <a href="https://github.com/leonardohernandesq">
-  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=leonardohernandesq&count_private=true&show_icons=true&theme=dracula&locale=pt-BR" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=leonardohernandesq&count_private=true&show_icons=true&theme=dracula&locale=pt-BR" />
 </a>
 <a href="https://github.com/leonardohernandesq">
-  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohernandesq&layout=compact&theme=dracula&locale=pt-BR" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohernandesq&layout=compact&theme=dracula&locale=pt-BR" />
 </a>
 
 ## Minhas Redes 
