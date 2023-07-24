@@ -6,7 +6,7 @@
       </b>
     </td>
     <td height="50px">
-      <a href="readme-en.md">English 🇺🇸</a>
+      <a href="README-EN.md">English 🇺🇸</a>
     </td>
   </tr>
 </table>
