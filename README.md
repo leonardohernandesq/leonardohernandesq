@@ -249,7 +249,8 @@
 
 ## Atividades
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardohernandesq&theme=dracula&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao&border_radius=15" />
-<img align="right" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardohernandesq&langs_count=8&theme=dracula&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400&border_radius=15" />
+
+<img align="right" height="406px" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardohernandesq&langs_count=8&theme=dracula&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400&border_radius=15" />
 <div align="left">
   <img height="203px" src="https://streak-stats.demolab.com?user=leonardohernandesq&theme=dracula&border_radius=15&locale=pt_BR" />
   <img height="203px" src="https://github-readme-stats.vercel.app/api?username=leonardohernandesq&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400&border_radius=15" />
