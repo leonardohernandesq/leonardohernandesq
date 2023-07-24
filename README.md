@@ -68,6 +68,26 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+        <sub>
+          <b>
+            <pre>React</pre>
+          </b>
+        </sub>
+      </a>
+    </td>    
+    <td align="center">
+      <a href="https://reactnative.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React Native icon"/><br/>
+        <sub>
+          <b>
+            <pre>React <br>Native</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://www.typescriptlang.org/">
         <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
         <sub>
