@@ -15,10 +15,7 @@
 <a href="" alt="Banner Leonardo Quental">
   <img align="center" width="100%" alt="Banner Leonardo Quental" src="./images/banner.png" />
 </a>
-<br/><br/>
-<div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=leonardohernandesq&repo=leonardohernandesq&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Quental" height="40px" />
-</div>
+
 <hr/>
 <br>
 
