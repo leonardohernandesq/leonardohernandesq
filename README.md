@@ -17,7 +17,7 @@
 </a>
 <br/><br/>
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=leonardohernandesq&repo=leonardohernandesq&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Quental" height="40px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=leonardohernandesq&repo=leonardohernandesq&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Quental" height="40px" />
 </div>
 <hr/>
 <br>
